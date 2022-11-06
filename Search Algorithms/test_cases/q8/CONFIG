@@ -1,0 +1,3 @@
+class: "Q7PartialCreditQuestion"
+max_points: "1"
+depends: "q7"

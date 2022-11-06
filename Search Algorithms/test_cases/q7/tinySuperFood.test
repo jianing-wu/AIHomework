@@ -1,0 +1,14 @@
+class: "SuperFoodProblemTest"
+
+
+layoutName: "tinySuperFood"
+layout: """
+%%%%%%%%
+%. ;  .%
+%   P  %
+%;%%%% %
+% % ,  %
+% % %%%%
+%.%;  ,%
+%%%%%%%%
+"""
