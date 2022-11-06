@@ -1,1 +1,1 @@
-# CSCI_360_HW1
+# Mini Max & MDP

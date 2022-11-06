@@ -1,1 +1,2 @@
-# CSCI_360_HW1
+# Search Algorithms
+## Depth First Search, Breadth First Seach, Uniform-cost search, A* Search
